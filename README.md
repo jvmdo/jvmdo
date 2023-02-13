@@ -46,5 +46,5 @@ I am focusing on ReactJS and its ecosystem since when I graduated in computer en
 ![Web Components](https://img.shields.io/badge/Web%20Components-%23ff6347.svg?style=for-the-badge&logoColor=white)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmdo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmdo&exclude_repo=cg-stuffs,rna-pp1-2020&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
