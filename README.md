@@ -14,9 +14,9 @@
 
 ## 📰 About Me
 
-I am a computer engineering graduate focused in front-end web development with React.js and its ecosystem. I spend my free time developing projects using React and vanilla JavaScript, and I enjoy tackling challenges on <a href="https://www.codewars.com/users/jvmdo">CodeWars</a>.
+I am a computer engineering graduate with a strong focus on web development. I possess a solid understanding of HTML, CSS, JavaScript, and React. While my primary stack is React.js and Node.js and their respective ecosystems, I am fully capable of learning and implementing solutions using other stacks.
 
-I have a solid understanding of the three foundational languages that make up the front-end web development stack: HTML, CSS, and JavaScript. As for React, while I have intermediate-level knowledge of the library, I am constantly expanding my skills and knowledge with each new project I build.
+During my free time, I consistently engage in project development using React, which allows me to continually expand my skills and knowledge. Additionally, I find enjoyment in taking on challenges on platforms like <a href="https://www.codewars.com/users/jvmdo">CodeWars</a>, further honing my problem-solving abilities.
 
 ## 🤓 Stuff I Know
 
@@ -34,7 +34,6 @@ I have a solid understanding of the three foundational languages that make up th
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<!-- ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<!-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
-![Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -46,7 +45,7 @@ I have a solid understanding of the three foundational languages that make up th
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) <!-- ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 👀 Stuff to get a Peek
