@@ -14,7 +14,7 @@
 
 ## 📰 About Me
 
-I am a computer engineering graduate with a strong focus on web development. I possess a solid understanding of HTML, CSS, JavaScript, and React. While my primary stack is React.js and Node.js and their respective ecosystems, I am fully capable of learning and implementing solutions using other stacks.
+I am a computer engineering graduate with a strong focus on web development. I have a solid understanding of HTML, CSS, JavaScript, and React. While my primary stack is React.js and Node.js and their respective ecosystems, I am fully capable of learning and implementing solutions using other stacks.
 
 During my free time, I consistently engage in project development using React + Node, which allows me to continually expand my skills and knowledge. Additionally, I find enjoyment in taking on challenges on platforms like <a href="https://www.codewars.com/users/jvmdo">CodeWars</a>, further honing my problem-solving abilities.
 
